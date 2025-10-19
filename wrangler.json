@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "cityintel-api",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "6b4305f3-775b-4f38-8100-e3f291b43e98",
+      "database_name": "Subscriptions"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
